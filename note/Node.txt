@@ -1,0 +1,7 @@
+1. Node REPL
+    - Read
+    - Evaluate
+    - Print
+    - Loop
+2. Executing code in a JavaScript file in the command line.\
+    - using "Node" command

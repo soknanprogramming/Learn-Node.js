@@ -1,1 +1,0 @@
-- MVC stand for Model, View and Controller
